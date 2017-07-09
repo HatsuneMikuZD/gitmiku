@@ -1,2 +1,3 @@
 This a text View.
 old is clear.
+creat new bash miku.
